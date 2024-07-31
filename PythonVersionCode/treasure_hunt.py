@@ -14,6 +14,8 @@ import numpy as np
 import csv
 import random
 
+print ("Dan is awesome")
+
 # np array to store true treasure probability values (initiated at 0 for all
 # cells, but we will read in the actual values from a .csv file)
 true_treasure_vals = np.array([ 
